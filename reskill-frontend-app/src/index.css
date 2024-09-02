@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    @apply top-[2739px] w-[404px] h-[346px] shadow-md;
+}
